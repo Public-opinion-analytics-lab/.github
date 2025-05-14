@@ -1,4 +1,4 @@
-## Hi there 👋
+# Mission Statement
 
 This is the GitHub organisation page of the Public Opinion Analytics lab. To learn more also visit: [our website](https://publicopinionanalyticslab.github.io/). 
 
